@@ -36,7 +36,7 @@ Let’s connect if you want to collab and create something awesome. Follow the s
 
 
 <center>
-	<a href="https://twitter.com/anuditverma" class="twitter-follow-button" data-size="large" data-show-count="false">Follow @cmrmahesh</a>
+	<a href="https://twitter.com/cmrmahesh" class="twitter-follow-button" data-size="large" data-show-count="false">Follow @cmrmahesh</a>
 	<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 </center>
 <br>
