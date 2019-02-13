@@ -1,9 +1,7 @@
 ---
 published: false
 ---
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+## Vertical Learning
 
 These days taking things for granted has becoming too common for us. Things that are available to us from the moment we wake up to the moment we sleep were all products of numerous people whose tinkering and curiosity has helped them to expand the adjacent possible knowingly or unknowingly. No its not true about what we read about innovations and idea they are not eureka moments but [slow hunches](https://www.youtube.com/watch?v=NugRZGDbPFU) developed over years. Sure Edison and Bell were geniuses no denying that but what we need to appreciate is that bulb and telephone didnt build the modern society , there are numerous inventions theories by pioneers that made .
 
