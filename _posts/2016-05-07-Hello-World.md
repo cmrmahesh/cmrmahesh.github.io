@@ -5,7 +5,7 @@ published: true
 
 This page is for testing github pages and will be used for only that purpose.
 
-'''c++
+```c++
 #include <iostream> 
 using namespace std; 
 
@@ -28,4 +28,4 @@ int main()
 	B ob = "copy me"; 
 	return 0; 
 } 
-'''
+```
