@@ -58,6 +58,7 @@ Follow me on [GoodReads](https://www.goodreads.com/user/show/33625087-cmrmahesh)
 - Do 10 pull-ups in single set.
 - Do 50 push-ups in single set.
 - Cycle to ChikkaTirupathi and back.(~100Kms)
+- Complete a Triathlon.
 
 ## Career/Learning
 
