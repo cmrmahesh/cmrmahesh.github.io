@@ -7,7 +7,7 @@ layout: page
 - I am currently enjoying the lockdown and quarantined life at my native place with my family.
 - Though the heat is extreme here (it reaches upto 42<sup>0</sup>C), I am grateful that I get to eat well cooked home-made food.
 
-Last updated - 13 May 2020
+Last updated - 13 May 2020.\
 Purpose of this page:
 > "It’s a nice reminder for myself, when I’m feeling unfocused. A public declaration of priorities."
 
@@ -26,6 +26,7 @@ TLDR: Impossible list evolving.
 Follow me on [GoodReads](https://www.goodreads.com/user/show/33625087-cmrmahesh)
 
 ### Writing
+
 > Because words make us realize life that we live - CMR :p
 
 - ~~Start a blog.~~
@@ -42,11 +43,11 @@ Follow me on [GoodReads](https://www.goodreads.com/user/show/33625087-cmrmahesh)
 
 <iframe height='160' width='300' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/34532385/activity-summary/5b536a0d78569408cae7745b3a27ba7d7a02e8e7'></iframe>
 
-- Run a 5k.
-  - Finish under 30 mins.
+- ~~Run a 5k~~.
+  - ~~Finish under 30 mins~~.[March 2020](https://www.strava.com/activities/3225804598/overview)
   - Finish under 25 mins.
-- Run a 10k.
-  - Finish it under 60 mins.
+- ~~Run a 10k.~~
+  - Finish it under 60 mins.(best efforts: 67 mins)
 - Learn to do Headstand.
 - Learn to do Handstand.
 - Learn Calisthenics.
@@ -62,7 +63,7 @@ Follow me on [GoodReads](https://www.goodreads.com/user/show/33625087-cmrmahesh)
 - Learn C++ 17
 - Get Java Certification.
 - Complete DL with TF course.
-- Become a Pro in Vim.
+- Use vim as a primary editor for 100 days in a row.
 
 End Note:
 
