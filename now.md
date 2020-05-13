@@ -51,6 +51,7 @@ Follow me on [GoodReads](https://www.goodreads.com/user/show/33625087-cmrmahesh)
   - Finish under 25 mins.
 - ~~Run a 10k.~~
   - Finish under 60 mins.(best efforts: 67 mins)
+- 1000 km running in a year.
 - Learn to do Headstand.
 - Learn to do Handstand.
 - Learn Calisthenics.
