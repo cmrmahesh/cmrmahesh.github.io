@@ -15,24 +15,27 @@ This is inspired from [NowNowNow](https://nownownow.com/)
 
 I intend not to put this /now page on the main navigation bar (yet!). See the end note.
 
-## My Impossible-List
+---
 
-Bucket lists are good but as we tumble along in life these bucketlists lose prominence. We get so comfy in our routines, we lose sight of things to do. Difference between a bucket list and `impossible list` is best explained by [Joel Runyon](https://impossiblehq.com/about/joel/){make sure you read his story! inspiring}, who created the world’s first impossible list and defined the [difference](https://impossiblehq.com/the-impossible-list-is-not-a-bucket-list/) between it and a regular bucket list.
+# My Impossible-List
+
+Bucket lists are good but as we tumble along in life these bucketlists lose prominence. We get so comfy in our routines, we lose sight of things to do.
+Difference between a bucket list and `impossible list` is best explained by [Joel Runyon](https://impossiblehq.com/about/joel/){make sure you read his story! inspiring}, who created the world’s first impossible list and defined the [difference](https://impossiblehq.com/the-impossible-list-is-not-a-bucket-list/) between it and a regular bucket list.
 TLDR: Impossible list evolving.
 
-### Reading
+## Reading
 
 - I intend to complete 30 books for the year of 2020. (13/30)
 Follow me on [GoodReads](https://www.goodreads.com/user/show/33625087-cmrmahesh)
 
-### Writing
+## Writing
 
 > Because words make us realize life that we live - CMR :p
 
 - ~~Start a blog.~~
 - Write 5 posts (other than book reviews).
-- ~~Start a Diary.~~
-  - Maintain it for 6 months.
+- ~~Start a Diary.~~(July 2019)
+  - ~~Maintain it for 6 months.~~(Jan 2020)
   - Maintain it for a year.
 - Write a review of every book that I read in 2020.
 - Write 500 words 100 days in a row.
@@ -47,7 +50,7 @@ Follow me on [GoodReads](https://www.goodreads.com/user/show/33625087-cmrmahesh)
   - ~~Finish under 30 mins~~.[March 2020](https://www.strava.com/activities/3225804598/overview)
   - Finish under 25 mins.
 - ~~Run a 10k.~~
-  - Finish it under 60 mins.(best efforts: 67 mins)
+  - Finish under 60 mins.(best efforts: 67 mins)
 - Learn to do Headstand.
 - Learn to do Handstand.
 - Learn Calisthenics.
