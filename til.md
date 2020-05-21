@@ -1,6 +1,6 @@
 ---
 title: Today I learned.
-permalink: /now/
+permalink: /til/
 layout: page
 ---
 
