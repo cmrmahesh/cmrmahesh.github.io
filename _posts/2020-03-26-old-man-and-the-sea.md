@@ -10,10 +10,10 @@ My rating: <a href="https://www.goodreads.com/review/show/3242658656">4 of 5 sta
 
 This book is special for its deceptively simple style of writing.
 
-Hemingway has taken one act of old man - our Santiago - and lucidly portrayed us what life can mean. He makes us feel Santiago's hope even through despair and desperate times. His tremendous hard work, when there is an opportunity is felt. He commends his opponent, for his fight without letting down his guard. Santiago's happiness after turning the opportunity, putting behind all his self-doubt is vivid. And his desperate measures to guard his success, his prize only to see it lost, there comes the circle again. The circle of life and pain.
+Hemingway has taken one act of old man - our Santiago - and lucidly portrayed us what life can mean. He makes us feel Santiago's hope even through despair and desperate times. His tremendous hard work, when there is an opportunity is felt. He commends his opponent, for his fight, without letting down his guard. Santiago's happiness after fulfilling the opportunity, putting behind all his self-doubt is vivid. And his desperate measures to guard his success, his prize only to see it lost, there comes the circle again. The circle of life and pain.
 {: .text-justify}
 
-Story telling is a little slow to my taste. Perhaps the slow pace has helped me in looking at the bigger picture, to realize what it means to hope, to fight, to win, and to lose.
+Storytelling is a little slow to my taste. Perhaps the slow pace has helped me in looking at the bigger picture, to realize what it means to hope, to fight, to win, and to lose.
 
 <a href="https://www.goodreads.com/review/list/33625087-cmrmahesh">View all my reviews</a>
 
