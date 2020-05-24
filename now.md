@@ -51,7 +51,11 @@ Follow me on [GoodReads](https://www.goodreads.com/user/show/33625087-cmrmahesh)
   - Finish under 25 mins.
 - ~~Run a 10k.~~
   - Finish under 60 mins.(best efforts: 67 mins)
+- ~~Run 20km a week.~~
+  - ~~Run 30km a week.~~
+  - Run 40km.
 - 1000 km running in a year.
+- Complete a sub 4hr Marathon.
 - Learn to do Headstand.
 - Learn to do Handstand.
 - Learn Calisthenics.
@@ -61,7 +65,7 @@ Follow me on [GoodReads](https://www.goodreads.com/user/show/33625087-cmrmahesh)
 - Cycle to ChikkaTirupathi and back.(~100Kms)
 - Complete a Triathlon.
 
-## Career/Learning
+## Professional
 
 - Learn JavaScript.
 - 1 Algo question a day for 100 days in a row.
@@ -69,6 +73,27 @@ Follow me on [GoodReads](https://www.goodreads.com/user/show/33625087-cmrmahesh)
 - Get Java Certification.
 - Complete DL with TF course.
 - Use vim as a primary editor for 100 days in a row.
+- Build an application that few people use.
+
+## Adventures
+
+- Scuba Diving.
+- Sky diving.
+- Bungee Jumping.
+
+## Skill Goals
+
+- Become a certified yoga instructor.
+- learn Morse Code.
+- learn sign language.
+- learn braille.
+- learn pencil sketch.
+
+## Travel
+
+- Go on Kashmir Great Lakes trek.
+- Go on Leh Ladakh Bike trip.
+- 
 
 End Note:
 
