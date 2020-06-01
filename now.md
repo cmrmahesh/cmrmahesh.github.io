@@ -25,7 +25,7 @@ TLDR: Impossible list evolving.
 
 ## Reading
 
-- I intend to complete 30 books for the year of 2020. (13/30)
+- I intend to complete 30 books for the year of 2020. (15/30)
 Follow me on [GoodReads](https://www.goodreads.com/user/show/33625087-cmrmahesh)
 
 ## Writing
@@ -88,12 +88,12 @@ Follow me on [GoodReads](https://www.goodreads.com/user/show/33625087-cmrmahesh)
 - learn sign language.
 - learn braille.
 - learn pencil sketch.
+- learn calligraphy.
 
 ## Travel
 
 - Go on Kashmir Great Lakes trek.
 - Go on Leh Ladakh Bike trip.
-- 
 
 End Note:
 
