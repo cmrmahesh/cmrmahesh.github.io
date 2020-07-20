@@ -5,10 +5,10 @@ category:
   - writing
 ---
 
-* This essay was written as a part of college assignment. *
-* Q: Name a technological invention during your childhood and its impact. *
+_This essay was written as a part of college assignment._
+_Q: Name a technological invention during your childhood and its impact._
 
-* There were addtional questions that served as hints which I dont have currently. Though the ideas was real, this is a work of fiction. *
+_There were addtional questions that served as hints which I dont have currently. Though the ideas was real, this is a work of fiction._
 
 ------
 
@@ -33,7 +33,7 @@ Walkman helped me explore various music artists from across the country without 
 When I got an iPod as a birthday present when I was 13, I stopped using my walkman. I passed it on to my cousin I started using the iPod. Initially adjusting to using the iPod was a tough phase because walkman buttons are more intuitive and easier to use but later I started enjoying the iPod. One thing that I liked using the iPod over the Walkman is the variety and count of songs I could listen to and its size.
 {: .text-justify}
 
-To a child born today, the walkman can be described as the following: The idea of listening to our choice and listening to it privately may seem trivial now but that was not the case before the invention of Walkman. Walkman didn't represent a breakthrough in technology as much as it did a breakthrough in imagination. Walkman had (only) five buttons on top of it - play/pause, eject, forward, backward, and power on/off buttons and a slider to increase/decrease the volume. It had two audio ports which were a lifesaver. (considering that current devices deemed as most innovative don’t even have one!). Even with batteries, cassettes and headphones attached the device felt light-weight and so much easier to carry around in “pocket”. The simplicity of the device is immaculate and there was not a single reason not to fall in love with it. 
+To a child born today, the walkman can be described as the following: The idea of listening to our choice and listening to it privately may seem trivial now but that was not the case before the invention of Walkman. Walkman didn't represent a breakthrough in technology as much as it did a breakthrough in imagination. Walkman had (only) five buttons on top of it - play/pause, eject, forward, backward, and power on/off buttons and a slider to increase/decrease the volume. It had two audio ports which were a lifesaver. (considering that current devices deemed as most innovative don’t even have one!). Even with batteries, cassettes and headphones attached the device felt light-weight and so much easier to carry around in “pocket”. The simplicity of the device is immaculate and there was not a single reason not to fall in love with it.
 {: .text-justify}
 
 Post-walkman age the old in the house grudgingly gave up on their attempts to make us listen to the BOX. Their worries were not unfounded. They felt this new Walkman thing would increase the gap between them. But we proved that having the ability to choose, the ability to have an option, and the ability to have me-time helps relationships grow. It feels like they made peace with the fact that no matter what they do, change is inevitable. The young in the house even helped a few elders to set up their walkman. The BOX still lay at a prime location in our house, and can still screech and scream. For me, a glance at the BOX always brings the nostalgia of the transformation that we all felt with the introduction of the walkman. The BOX has seen its glory days but could not fight back the walkman, it was simply made to give way for the change. Though walkman has conceded to various other technologies now, it was the first device that gave us the taste of freedom. And for that, we would always be grateful and there is no denying that.
