@@ -30,6 +30,11 @@ The [challenge](https://www.100daysofcode.com/) website says to plan what you wa
 ---
 
 ### Day 2: Saturday, August 1, 2020
-[] [Pairs Having Similar Elements](https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/pairs-having-similar-element-eed098aa/) 
+
+[] [Pairs Having Similar Elements](https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/pairs-having-similar-element-eed098aa/) - HackerRank
 
 ---
+
+### Day 3: Sunday, August 2, 2020
+
+[x] [Monk and Power of Time](https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/monk-and-power-of-time/editorial/) - HackerRank
