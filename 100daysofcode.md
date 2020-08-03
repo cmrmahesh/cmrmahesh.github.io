@@ -6,7 +6,7 @@ layout: page
 
 Day-by-day coding progress and learning listed below.
 
-[Personal Website](https://cmrmahesh.github.io)\
+[Personal Website](https://cmrmahesh.github.io) 
 
 ---
 
@@ -19,7 +19,7 @@ Day-by-day coding progress and learning listed below.
 The [challenge](https://www.100daysofcode.com/) website says to plan what you want to do the next 100 days and be clear of your goals. But frankly I felt lost and given an option to choose so I simply went through developer blogs reading what they did, why they did. The `imposter syndrome` is real. So in my pursuit of just starting with something and boosting my confidence I decided to take up easy challenges in leet code and finish as many as I can.
 
 [x] [1480. Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)  
-[X] [1470. Shuffle the Array](https://leetcode.com/problems/shuffle-the-array)
+[x] [1470. Shuffle the Array](https://leetcode.com/problems/shuffle-the-array)
 
 ---
 
@@ -38,3 +38,9 @@ The [challenge](https://www.100daysofcode.com/) website says to plan what you wa
 ### Day 3: Sunday, August 2, 2020
 
 [x] [Monk and Power of Time](https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/monk-and-power-of-time/editorial/) - HackerRank
+
+---
+
+### Day 4: Monday, August 3, 2020
+
+[p] [Neutralisation of charges](https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/charges-repel/description/) - HackerRank
