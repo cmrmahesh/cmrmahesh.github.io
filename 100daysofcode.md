@@ -44,3 +44,10 @@ The [challenge](https://www.100daysofcode.com/) website says to plan what you wa
 ### Day 4: Monday, August 3, 2020
 
 [p] [Neutralisation of charges](https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/charges-repel/description/) - HackerRank
+
+---
+
+### Day 5: Tuesday, August 4, 2020
+
+[x] [Long ATM Queue](https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/long-atm-queue-3/)
+[x] [Help Jarvis!](https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/help-jarvis-8a39566e/description/)
