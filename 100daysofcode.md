@@ -6,11 +6,11 @@ layout: page
 
 Day-by-day coding progress and learning listed below.
 
-[Personal Website](https://cmrmahesh.github.io) 
+[Personal Website](https://cmrmahesh.github.io)
 
 ---
 
-## Here I go.
+## Here I go
 
 ---
 
@@ -49,5 +49,5 @@ The [challenge](https://www.100daysofcode.com/) website says to plan what you wa
 
 ### Day 5: Tuesday, August 4, 2020
 
-[x] [Long ATM Queue](https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/long-atm-queue-3/)
+[x] [Long ATM Queue](https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/long-atm-queue-3/)  
 [x] [Help Jarvis!](https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/help-jarvis-8a39566e/description/)

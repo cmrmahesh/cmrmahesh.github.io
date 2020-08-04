@@ -7,7 +7,8 @@ category:
 
 Having been in python land for nearly 2 years, I am visiting c++ again. WHat I found is too many inconsistences and petty annoyances. I will try to list them down so that I can be corrected.
 
-1. `length` and `size`
+1. `length` and `size`.
+
 For string in c++
 
 ```c++
