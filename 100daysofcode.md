@@ -51,3 +51,9 @@ The [challenge](https://www.100daysofcode.com/) website says to plan what you wa
 
 [x] [Long ATM Queue](https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/long-atm-queue-3/)  
 [x] [Help Jarvis!](https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/help-jarvis-8a39566e/description/)
+---
+
+### Day 6: Tuesday, August 5, 2020
+
+[x] [Hamiltonian and Lagrangian](https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/hamiltonian-and-lagrangian/editorial/) - HackerEarth
+[] [Mark The Answer](https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/mark-the-answer-1/)
