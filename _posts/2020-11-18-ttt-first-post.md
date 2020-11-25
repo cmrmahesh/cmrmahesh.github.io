@@ -1,8 +1,7 @@
 ---
 title: TTT first bubble short
-tags: fiction, shorts
+tags: fiction shorts
 category:
-  - reading
   - writing
 ---
 
