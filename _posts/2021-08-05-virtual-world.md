@@ -1,5 +1,5 @@
 ---
-title: TTT first bubble short
+title: Virtual World in C++
 tags: c++, prep, ntm
 category:
   - code
@@ -184,3 +184,5 @@ Bonus Readings:
 3. GfG [Quiz](https://www.geeksforgeeks.org/c-plus-plus-gq/virtual-functions-gq/).
 
 ## Virtual in Multiple Inheritence setting
+
+<to be continued>
